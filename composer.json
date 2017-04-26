@@ -1,0 +1,22 @@
+{
+  "name": "brisum/module-http-redirect-rule",
+  "description": "Http redirect",
+  "keywords": [
+    "http",
+    "redirect"
+  ],
+  "homepage": "https://github.com/brisum/php-module-http-redirect-rule",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Oleksandr Manchenko",
+      "email": "omanchenko@brisum.com",
+      "homepage": "http://brisum.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Brisum\\HttpRedirect\\": "src/"
+    }
+  }
+}
